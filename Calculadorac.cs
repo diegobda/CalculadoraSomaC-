@@ -11,5 +11,6 @@ class programa{
         v2=int.Parse(Console.ReadLine());
         soma=v1+v2;
         Console.WriteLine("A soma de {0} mais {1} e igual {2}" ,v1 ,v2, soma);
+        break;
     }
 }
